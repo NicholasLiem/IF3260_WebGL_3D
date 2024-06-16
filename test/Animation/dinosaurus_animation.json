@@ -1,0 +1,410 @@
+{
+  "name": "Animasi Dinosaurs",
+  "duration": 12,
+  "tracks": [
+    {
+      "nodePath": "Whole Body.Body.Right Front Leg Joint",
+      "keyFrames": [
+        {
+          "frame": 0,
+          "value": {
+            "x": -0.17364817766693033,
+            "y": 0,
+            "z": 0,
+            "w": 0.984807753012208
+          },
+          "interpolation": 0
+        },
+        {
+          "frame": 2,
+          "value": {
+            "x": 0.17364817766693033,
+            "y": 0,
+            "z": 0,
+            "w": 0.984807753012208
+          },
+          "interpolation": 0
+        },
+        {
+          "frame": 4,
+          "value": {
+            "x": -0.17364817766693033,
+            "y": 0,
+            "z": 0,
+            "w": 0.984807753012208
+          },
+          "interpolation": 0
+        },
+        {
+          "frame": 6,
+          "value": {
+            "x": 0.17364817766693033,
+            "y": 0,
+            "z": 0,
+            "w": 0.984807753012208
+          },
+          "interpolation": 0
+        },
+        {
+          "frame": 8,
+          "value": {
+            "x": -0.17364817766693033,
+            "y": 0,
+            "z": 0,
+            "w": 0.984807753012208
+          },
+          "interpolation": 0
+        },
+        {
+          "frame": 10,
+          "value": {
+            "x": 0.17364817766693033,
+            "y": 0,
+            "z": 0,
+            "w": 0.984807753012208
+          },
+          "interpolation": 0
+        },
+        {
+          "frame": 12,
+          "value": {
+            "x": -0.17364817766693033,
+            "y": 0,
+            "z": 0,
+            "w": 0.984807753012208
+          },
+          "interpolation": 0
+        }
+      ],
+      "type": "quaternion"
+    },
+    {
+      "nodePath": "Whole Body.Body.Left Front Leg Joint",
+      "keyFrames": [
+        {
+          "frame": 0,
+          "value": {
+            "x": -0.17364817766693033,
+            "y": 0,
+            "z": 0,
+            "w": 0.984807753012208
+          },
+          "interpolation": 0
+        },
+        {
+          "frame": 2,
+          "value": {
+            "x": 0.17364817766693033,
+            "y": 0,
+            "z": 0,
+            "w": 0.984807753012208
+          },
+          "interpolation": 0
+        },
+        {
+          "frame": 4,
+          "value": {
+            "x": -0.17364817766693033,
+            "y": 0,
+            "z": 0,
+            "w": 0.984807753012208
+          },
+          "interpolation": 0
+        },
+        {
+          "frame": 6,
+          "value": {
+            "x": 0.17364817766693033,
+            "y": 0,
+            "z": 0,
+            "w": 0.984807753012208
+          },
+          "interpolation": 0
+        },
+        {
+          "frame": 8,
+          "value": {
+            "x": -0.17364817766693033,
+            "y": 0,
+            "z": 0,
+            "w": 0.984807753012208
+          },
+          "interpolation": 0
+        },
+        {
+          "frame": 10,
+          "value": {
+            "x": 0.17364817766693033,
+            "y": 0,
+            "z": 0,
+            "w": 0.984807753012208
+          },
+          "interpolation": 0
+        },
+        {
+          "frame": 12,
+          "value": {
+            "x": -0.17364817766693033,
+            "y": 0,
+            "z": 0,
+            "w": 0.984807753012208
+          },
+          "interpolation": 0
+        }
+      ],
+      "type": "quaternion"
+    },
+    {
+      "nodePath": "Whole Body.Body.Right Back Leg Joint",
+      "keyFrames": [
+        {
+          "frame": 0,
+          "value": {
+            "x": 0.17364817766693033,
+            "y": 0,
+            "z": 0,
+            "w": 0.984807753012208
+          },
+          "interpolation": 0
+        },
+        {
+          "frame": 2,
+          "value": {
+            "x": -0.17364817766693033,
+            "y": 0,
+            "z": 0,
+            "w": 0.984807753012208
+          },
+          "interpolation": 0
+        },
+        {
+          "frame": 4,
+          "value": {
+            "x": 0.17364817766693033,
+            "y": 0,
+            "z": 0,
+            "w": 0.984807753012208
+          },
+          "interpolation": 0
+        },
+        {
+          "frame": 6,
+          "value": {
+            "x": -0.17364817766693033,
+            "y": 0,
+            "z": 0,
+            "w": 0.984807753012208
+          },
+          "interpolation": 0
+        },
+        {
+          "frame": 8,
+          "value": {
+            "x": 0.17364817766693033,
+            "y": 0,
+            "z": 0,
+            "w": 0.984807753012208
+          },
+          "interpolation": 0
+        },
+        {
+          "frame": 10,
+          "value": {
+            "x": -0.17364817766693033,
+            "y": 0,
+            "z": 0,
+            "w": 0.984807753012208
+          },
+          "interpolation": 0
+        },
+        {
+          "frame": 12,
+          "value": {
+            "x": 0.17364817766693033,
+            "y": 0,
+            "z": 0,
+            "w": 0.984807753012208
+          },
+          "interpolation": 0
+        }
+      ],
+      "type": "quaternion"
+    },
+    {
+      "nodePath": "Whole Body.Body.Left Back Leg Joint",
+      "keyFrames": [
+        {
+          "frame": 0,
+          "value": {
+            "x": 0.17364817766693033,
+            "y": 0,
+            "z": 0,
+            "w": 0.984807753012208
+          },
+          "interpolation": 0
+        },
+        {
+          "frame": 2,
+          "value": {
+            "x": -0.17364817766693033,
+            "y": 0,
+            "z": 0,
+            "w": 0.984807753012208
+          },
+          "interpolation": 0
+        },
+        {
+          "frame": 4,
+          "value": {
+            "x": 0.17364817766693033,
+            "y": 0,
+            "z": 0,
+            "w": 0.984807753012208
+          },
+          "interpolation": 0
+        },
+        {
+          "frame": 6,
+          "value": {
+            "x": -0.17364817766693033,
+            "y": 0,
+            "z": 0,
+            "w": 0.984807753012208
+          },
+          "interpolation": 0
+        },
+        {
+          "frame": 8,
+          "value": {
+            "x": 0.17364817766693033,
+            "y": 0,
+            "z": 0,
+            "w": 0.984807753012208
+          },
+          "interpolation": 0
+        },
+        {
+          "frame": 10,
+          "value": {
+            "x": -0.17364817766693033,
+            "y": 0,
+            "z": 0,
+            "w": 0.984807753012208
+          },
+          "interpolation": 0
+        },
+        {
+          "frame": 12,
+          "value": {
+            "x": 0.17364817766693033,
+            "y": 0,
+            "z": 0,
+            "w": 0.984807753012208
+          },
+          "interpolation": 0
+        }
+      ],
+      "type": "quaternion"
+    },
+    {
+      "nodePath": "Whole Body.Body.Tail Joint",
+      "keyFrames": [
+        {
+          "frame": 0,
+          "value": {
+            "x": 0,
+            "y": -0.17364817766693033,
+            "z": 0,
+            "w": 0.984807753012208
+          },
+          "interpolation": 0
+        },
+        {
+          "frame": 2,
+          "value": {
+            "x": 0,
+            "y": 0.17364817766693033,
+            "z": 0,
+            "w": 0.984807753012208
+          },
+          "interpolation": 0
+        },
+        {
+          "frame": 4,
+          "value": {
+            "x": 0,
+            "y": -0.17364817766693033,
+            "z": 0,
+            "w": 0.984807753012208
+          },
+          "interpolation": 0
+        },
+        {
+          "frame": 6,
+          "value": {
+            "x": 0,
+            "y": 0.17364817766693033,
+            "z": 0,
+            "w": 0.984807753012208
+          },
+          "interpolation": 0
+        },
+        {
+          "frame": 8,
+          "value": {
+            "x": 0,
+            "y": -0.17364817766693033,
+            "z": 0,
+            "w": 0.984807753012208
+          },
+          "interpolation": 0
+        },
+        {
+          "frame": 10,
+          "value": {
+            "x": 0,
+            "y": 0.17364817766693033,
+            "z": 0,
+            "w": 0.984807753012208
+          },
+          "interpolation": 0
+        },
+        {
+          "frame": 12,
+          "value": {
+            "x": 0,
+            "y": -0.17364817766693033,
+            "z": 0,
+            "w": 0.984807753012208
+          },
+          "interpolation": 0
+        }
+      ],
+      "type": "quaternion"
+    },
+    {
+      "nodePath": "Whole Body",
+      "keyFrames": [
+        {
+          "frame": 0,
+          "value": {
+            "x": 0,
+            "y": 0,
+            "z": -10
+          },
+          "interpolation": 6
+        },
+        {
+          "frame": 12,
+          "value": {
+            "x": 0,
+            "y": 0,
+            "z": 5
+          },
+          "interpolation": 4
+        }
+      ],
+      "type": "translation"
+    }
+  ]
+}
